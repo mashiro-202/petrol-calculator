@@ -1,0 +1,41 @@
+ body{
+    padding-top: 300px;
+}
+#container{
+    text-align: center;
+    padding: 10px;
+    display:block;
+    background-color: aqua;
+    border: solid 1px;
+    border-color: aqua;
+    border-radius: 30px;
+    max-width: 500px;
+    min-width: 400px;
+    margin: auto;
+}
+
+.textbox{
+    height: 25px;
+    width: auto;
+    text-align: center;
+}
+#convert{
+    display: inline;
+}
+.result{
+    text-align: center;
+    margin: auto;
+    display: inline-block;
+    padding: auto;
+}
+#resultContainer{
+    text-align: center;
+}
+#label1{
+    position: relative;
+    right: 30px;
+}
+#label3{
+    position: relative;
+    left: 30px;
+}
